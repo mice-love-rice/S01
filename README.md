@@ -5,7 +5,7 @@ To install the Windows Client locally on the target computer using the installat
 1. Click EkranSystemClient.zip  and Download EkranSystemMacOSClientx64.tar.gz
 ![1](https://github.com/mice-love-rice/S01/assets/126450125/9ab40eb9-8cf1-4b0a-9cf7-9ed6a891d762)
 
-2.	Launch the EkranSystemClientInst.exe installation file using an account with administrator permissions and  Finished
+2.	Launch the EkranSystemMacOSClientx64.tar.gz installation file using an account with administrator permissions and  Finished
 
 ![image](https://github.com/mice-love-rice/Br9/assets/126450125/7f54ffae-e198-4086-8fc7-16cc49e8a3ef)
 
