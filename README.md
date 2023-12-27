@@ -1,1 +1,1 @@
-# S01
+# SOP - Install Ekran Computer Client for S01
