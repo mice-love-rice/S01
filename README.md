@@ -9,7 +9,10 @@ To install the Windows Client locally on the target computer using the installat
 
 ![image](https://github.com/mice-love-rice/Br9/assets/126450125/7f54ffae-e198-4086-8fc7-16cc49e8a3ef)
 
-
+4 To ensure proper operation of the Client, you need to grant the Accessibility permission for the EkranAgentClient application.
+  Grant the Accessibility and Screen Recording permissions for the EkranAgentClient application. 
+  Open System Preferences, click Security & Privacy, and then click Privacy. Make sure that the EkranAgentClient checkbox is selected for the Accessibility and Screen Recording permissions.
+  
 3.Verify Ekran install status in Taskmanager, Once saw ekranclient and ekrancontrol mean You are Good!!
 
 ![image](https://github.com/mice-love-rice/Br9/assets/126450125/90edde2b-a528-4649-b788-768189546c55)
