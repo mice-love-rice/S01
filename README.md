@@ -20,4 +20,5 @@ To install the Ekran MacOS Client locally on the target computer using the insta
    Screen Recording permissions for the EkranAgentClient application. 
   ![mac2](https://github.com/mice-love-rice/S01/assets/126450125/99645e2b-e790-41b6-974a-1e0a0b9ac488)
 
+5. Pleasse contact Ekran Administrator once done in installation process. Thank you!
 
